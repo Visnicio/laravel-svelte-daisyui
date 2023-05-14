@@ -4,7 +4,7 @@
   export let href;
 </script>
 
-<div class="card bg-base-100">
+<div class="card bg-base-100 min-h-full">
   <div class="card-body">
     <h2 class="card-title">{title}</h2>
     <p>{text}</p>
