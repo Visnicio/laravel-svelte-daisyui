@@ -18,10 +18,10 @@
     <Button text="Counter is {counter}" onClick={increment}/>
     <div class="grid grid-cols-12 gap-4 mt-10">
       <div class="col-span-6">
-        <DocsCard title="Laravel Docs" text="If you are new to Laravel ou need some memory refresh, here are the docs" href="https://laravel.com/docs"/>
+        <DocsCard title="Laravel Docs" text="If you are new to Laravel or need a memory refresh, here are the docs" href="https://laravel.com/docs"/>
       </div>
       <div class="col-span-6">
-        <DocsCard title="DaisyUI Docs" text="Here are the DaisyUI documentation so you can start creating your UIs" href="https://daisyui.com/docs/use/"/>
+        <DocsCard title="DaisyUI Docs" text="Here are the DaisyUI documentation so you can start creating your UI" href="https://daisyui.com/docs/use/"/>
       </div>
     </div>
   </section>
